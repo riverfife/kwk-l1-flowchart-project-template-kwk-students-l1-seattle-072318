@@ -1,1 +1,1 @@
-puts
+puts "Welcome to Find Your Cause, please enter your name to continue"
